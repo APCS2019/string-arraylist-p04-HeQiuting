@@ -6,6 +6,6 @@ public String decodeString(ArrayList<StringParts> parts){
   }
   return tmp;
   
-(b)
+(b)真的不懂题啥意思
 public ArrayList<StringPart> encodeString(String word)
     
